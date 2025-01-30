@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\di\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD97554-CAD5-421B-9A36-C6F37BD17415}|workshop.console\\workshop.console.csproj|c:\\di\\workshop.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD97554-CAD5-421B-9A36-C6F37BD17415}|workshop.console\\workshop.console.csproj|solutionrelative:workshop.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD97554-CAD5-421B-9A36-C6F37BD17415}|workshop.console\\workshop.console.csproj|c:\\di\\workshop.console\\shop\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD97554-CAD5-421B-9A36-C6F37BD17415}|workshop.console\\workshop.console.csproj|solutionrelative:workshop.console\\shop\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD97554-CAD5-421B-9A36-C6F37BD17415}|workshop.console\\workshop.console.csproj|c:\\di\\workshop.console\\shop\\products\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD97554-CAD5-421B-9A36-C6F37BD17415}|workshop.console\\workshop.console.csproj|solutionrelative:workshop.console\\shop\\products\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD97554-CAD5-421B-9A36-C6F37BD17415}|workshop.console\\workshop.console.csproj|c:\\di\\workshop.console\\shop\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD97554-CAD5-421B-9A36-C6F37BD17415}|workshop.console\\workshop.console.csproj|solutionrelative:workshop.console\\shop\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD97554-CAD5-421B-9A36-C6F37BD17415}|workshop.console\\workshop.console.csproj|c:\\di\\workshop.console\\shop\\interfaces\\idiscountable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD97554-CAD5-421B-9A36-C6F37BD17415}|workshop.console\\workshop.console.csproj|solutionrelative:workshop.console\\shop\\interfaces\\idiscountable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD97554-CAD5-421B-9A36-C6F37BD17415}|workshop.console\\workshop.console.csproj|c:\\di\\workshop.console\\shop\\interfaces\\istringable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD97554-CAD5-421B-9A36-C6F37BD17415}|workshop.console\\workshop.console.csproj|solutionrelative:workshop.console\\shop\\interfaces\\istringable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD97554-CAD5-421B-9A36-C6F37BD17415}|workshop.console\\workshop.console.csproj|c:\\di\\workshop.console\\shop\\products\\drums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD97554-CAD5-421B-9A36-C6F37BD17415}|workshop.console\\workshop.console.csproj|solutionrelative:workshop.console\\shop\\products\\drums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDiscountable.cs",
+              "DocumentMoniker": "C:\\di\\workshop.console\\Shop\\Interfaces\\IDiscountable.cs",
+              "RelativeDocumentMoniker": "workshop.console\\Shop\\Interfaces\\IDiscountable.cs",
+              "ToolTip": "C:\\di\\workshop.console\\Shop\\Interfaces\\IDiscountable.cs",
+              "RelativeToolTip": "workshop.console\\Shop\\Interfaces\\IDiscountable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T07:54:29.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStringable.cs",
+              "DocumentMoniker": "C:\\di\\workshop.console\\Shop\\Interfaces\\IStringable.cs",
+              "RelativeDocumentMoniker": "workshop.console\\Shop\\Interfaces\\IStringable.cs",
+              "ToolTip": "C:\\di\\workshop.console\\Shop\\Interfaces\\IStringable.cs",
+              "RelativeToolTip": "workshop.console\\Shop\\Interfaces\\IStringable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T07:42:51.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Drums.cs",
+              "DocumentMoniker": "C:\\di\\workshop.console\\Shop\\Products\\Drums.cs",
+              "RelativeDocumentMoniker": "workshop.console\\Shop\\Products\\Drums.cs",
+              "ToolTip": "C:\\di\\workshop.console\\Shop\\Products\\Drums.cs",
+              "RelativeToolTip": "workshop.console\\Shop\\Products\\Drums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:39:45.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Guitar.cs",
+              "DocumentMoniker": "C:\\di\\workshop.console\\Shop\\Products\\Guitar.cs",
+              "RelativeDocumentMoniker": "workshop.console\\Shop\\Products\\Guitar.cs",
+              "ToolTip": "C:\\di\\workshop.console\\Shop\\Products\\Guitar.cs*",
+              "RelativeToolTip": "workshop.console\\Shop\\Products\\Guitar.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:32:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\di\\workshop.console\\Shop\\Interfaces\\IProduct.cs",
+              "RelativeDocumentMoniker": "workshop.console\\Shop\\Interfaces\\IProduct.cs",
+              "ToolTip": "C:\\di\\workshop.console\\Shop\\Interfaces\\IProduct.cs",
+              "RelativeToolTip": "workshop.console\\Shop\\Interfaces\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:23:21.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\di\\workshop.console\\Shop\\Basket.cs",
+              "RelativeDocumentMoniker": "workshop.console\\Shop\\Basket.cs",
+              "ToolTip": "C:\\di\\workshop.console\\Shop\\Basket.cs",
+              "RelativeToolTip": "workshop.console\\Shop\\Basket.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:22:55.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\di\\workshop.console\\Program.cs",
+              "RelativeDocumentMoniker": "workshop.console\\Program.cs",
+              "ToolTip": "C:\\di\\workshop.console\\Program.cs",
+              "RelativeToolTip": "workshop.console\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:58:09.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
